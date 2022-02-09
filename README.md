@@ -6,6 +6,6 @@ GraphQL is a query language and server-side runtime for APIs that prioritizes gi
 The goal of this minor project was to explore the capabilities of graphql by using it in the backend environment.
     
 ### Features Explored
-- [ x] Basic Schema
-- [ x] Basics of Mutation
-- [ x] Simple CRUD Operations on through a JSON server
+- [x] Basic Schema
+- [x] Basics of Mutation
+- [x] Simple CRUD Operations on through a JSON server
