@@ -6,16 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "release": "standard-version"
+    "release": "standard-version",
+    "json:server": "json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "express-graphql": "^0.12.0",
     "graphql": "^15.8.0",
     "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
     "standard-version": "^9.3.2"
   },
   "devDependencies": {

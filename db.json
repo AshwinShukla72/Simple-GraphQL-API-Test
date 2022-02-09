@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Abhijit",
+      "lastName": "Shukla",
+      "age": 29,
+      "companyID": "3"
+    },
+    {
+      "firstName": "RAVI",
+      "lastName": "TIWARI",
+      "age": 28,
+      "id": "3"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "companyName": "Alphabet",
+      "description": "Nisi est consectetur laborum consectetur reprehenderit voluptate Lorem velit elit."
+    },
+    {
+      "id": "2",
+      "companyName": "Silver Sparrow",
+      "description": "Officia sit laborum ipsum officia deserunt consectetur occaecat irure."
+    },
+    {
+      "id": "3",
+      "companyName": "Ridiculous",
+      "description": "Minim pariatur est adipisicing laboris id officia deserunt do."
+    },
+    {
+      "id": "4",
+      "companyName": "Dummy Corps",
+      "description": "In quis enim labore exercitation magna esse. Culpa nulla magna dolor deserunt ullamco deserunt nulla aute ut exercitation aliquip minim adipisicing et. Duis nisi ad in velit eiusmod ut deserunt laborum nisi. Et consequat dolor mollit fugiat nisi commodo."
+    }
+  ]
+}
